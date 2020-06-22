@@ -1,0 +1,17 @@
+{
+  "name": "joaopedrodias-animate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AOS.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoPedroDiasMonteiro/animate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoPedroDiasMonteiro/animate/issues"
+  },
+  "homepage": "https://github.com/JoaoPedroDiasMonteiro/animate#readme"
+}
